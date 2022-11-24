@@ -1,0 +1,52 @@
+#div1{
+	border-style: solid;
+	border-color: darkgoldenrod;
+	margin: 20%;
+	padding: 12px;
+}
+#product{
+	font-family: 'Libre Baskerville', serif;
+	font-size: 14pt;
+	text-align: left;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+#price{
+	margin-top: 25px;
+	margin-bottom: 25px;
+	font-family: 'Lora', serif;
+	font-size: 25pt;
+	text-align: center;
+}
+body{
+	background-color: #DF8FFF;
+}
+img{
+	height: 50%;
+	width: 50%;
+	margin-left: 100px;
+	margin-right: 100px;
+	border:1px solid #ddd;
+	border-radius: 4px;
+	padding: 5px;
+}
+h4{
+	font-family: 'Lora', serif;
+	font-size: 20pt;
+	text-align: center;
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+button{
+	border: dotted;
+	border-radius: 6px;
+	outline: 4;
+	display: inline-black;
+	padding: 12px;
+	color: white;
+	background-color: #3498DB;
+	text-align: center;
+	cursor: pointer;
+	width: 100%;
+	font-size: 18px;
+}
